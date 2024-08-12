@@ -1,0 +1,31 @@
+
+.App {
+    text-align: center;
+    background-color: #080808;
+  }
+  
+  .book-list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(238, 238, 84);
+    
+  }
+  
+  .book-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    text-align: left;
+   
+  }
+  
+  .book-card h2 {
+    margin-top: 0;
+  }
+  
+  .book-card h3 {
+    color: #080808;
+  }
+  
